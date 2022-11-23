@@ -1,0 +1,50 @@
+.head1 {
+    display: block;
+}
+
+.head2 {
+    float: right;
+    padding: 25px;
+    color: grey;
+    font-size: 22px;
+
+}
+
+.imgacc1 {
+    float: right;
+    transform: translateY(0.45%);
+}
+
+.body1 {
+    text-align: center;
+    background-color: #336699;
+    height: 700px;
+    color: white;
+    font-size: 25px;
+
+}
+
+.txtbdy2 {
+    text-align: center;
+    color: #336699;
+    font-size: 40px;
+}
+
+.rectangle1 {
+    display: flex;
+    justify-content: center;
+}
+
+.textrectangle1 {
+    background-color: white;
+    color: #336699;
+    margin: 35px;
+    padding: 95px;
+    text-align: center;
+
+}
+
+body {
+    background-color: #F5F5FB;
+}
+
